@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/gw3IWyGkC0rsazTi/giphy.gif" width="450"/>
   <div id="badges">
     <a href="https://instagram.com/_latyp777?igshid=NzZlODBkYWE4Ng%3D%3D&utm_source=qr">
       <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,7 +10,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=LatypovDmitry-QA&style=flat-square&color=blue" alt=""/>
   <h1>
-    Мне показалось, что меня ослепил какой-то свет, а потом я понял ‒ это всего лишь ты зашел ко мне в гости
+     Продал Mercedes, чтобы уйти в IT, теперь езжу на новом :sunglasses:
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"/>
   </h1>
 </div>
